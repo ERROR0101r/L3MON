@@ -130,8 +130,8 @@ lemon-pass Change admin username/password
 🔑 DEFAULT CREDENTIALS
 
 Field Value
-Username admin
-Password admin
+Username Master
+Password master
 
 Change these immediately after installation!
 
