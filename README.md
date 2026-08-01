@@ -1,8 +1,4 @@
-Here's the updated README.md with your credit added at the beginning and end:
-
----
-
-🍋 L3MON - Android Remote Administration Tool
+#🍋 L3MON - Android Remote Administration Tool
 
 <div align="center">
 
