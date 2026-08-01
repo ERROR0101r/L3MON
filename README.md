@@ -1,70 +1,71 @@
-#🍋 L3MON - Android Remote Administration Tool
+
+# 🍋 L3MON - Android Remote Administration Tool
 
 <div align="center">
-
-Lightweight Android RAT with Web Panel
-
-https://img.shields.io/badge/GitHub-ERROR0101r-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Telegram-@ERROR0101risback-26A5E4?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/Instagram-@fahad0101r-E4405F?style=for-the-badge&logo=instagram
-
+  
+  ### **Lightweight Android RAT with Web Panel**
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-ERROR0101r-181717?style=for-the-badge&logo=github)](https://github.com/ERROR0101r)
+  [![Telegram](https://img.shields.io/badge/Telegram-@ERROR0101risback-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ERROR0101risback)
+  [![Instagram](https://img.shields.io/badge/Instagram-@fahad0101r-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/fahad0101r)
+  
 </div>
 
 ---
 
 <div align="center">
-
-👨‍💻 CREATED BY ERROR
-
-Developer: ERROR0101r / fahad0101r
-
-GitHub: https://github.com/ERROR0101r
-
+  
+| **CREATED BY ERROR** |
+|----------------------|
+| Developer: ERROR0101r / fahad0101r |
+| GitHub: https://github.com/ERROR0101r |
+| Telegram: https://t.me/ERROR0101risback |
+| Instagram: https://instagram.com/fahad0101r |
+  
 </div>
 
 ---
 
-📋 TABLE OF CONTENTS
-
-· What is L3MON?
-· Features
-· Installation
-  · Termux Installation
-  · Linux Installation
-· Commands
-· Default Credentials
-· Uninstallation
-· Disclaimer
-· Support
+## 📋 **TABLE OF CONTENTS**
+- [What is L3MON?](#-what-is-l3mon)
+- [Features](#-features)
+- [Installation](#-installation)
+  - [Termux Installation](#termux-installation)
+  - [Linux Installation](#linux-installation)
+- [Commands](#-commands)
+- [Default Credentials](#-default-credentials)
+- [Uninstallation](#-uninstallation)
+- [Disclaimer](#-disclaimer)
+- [Support](#-support)
 
 ---
 
-🧐 WHAT IS L3MON?
+## 🧐 **WHAT IS L3MON?**
 
 L3MON is a powerful Android Remote Administration Tool (RAT) with a web-based control panel. It allows you to manage Android devices remotely through a simple and intuitive interface.
 
-No coding skills required - Just run the setup and you're ready!
+**No coding skills required** - Just run the setup and you're ready!
 
-Developed by ERROR - A tool built with precision and simplicity.
-
----
-
-✨ FEATURES
-
-· 📱 Android Device Control - Full remote access
-· 🌐 Web Panel - Easy to use browser interface
-· 🔐 Secure Login - Password protected admin panel
-· 📊 Real-time Updates - Live device status
-· 🎯 User Friendly - Simple setup process
-· 🔄 Cross Platform - Works on Termux & Linux
-· ⚡ Lightweight - Minimal resource usage
-· 🔧 Easy Setup - One command installation
+> **Developed by ERROR** - A tool built with precision and simplicity.
 
 ---
 
-🚀 INSTALLATION
+## ✨ **FEATURES**
 
-Termux Installation
+- 📱 **Android Device Control** - Full remote access
+- 🌐 **Web Panel** - Easy to use browser interface
+- 🔐 **Secure Login** - Password protected admin panel
+- 📊 **Real-time Updates** - Live device status
+- 🎯 **User Friendly** - Simple setup process
+- 🔄 **Cross Platform** - Works on Termux & Linux
+- ⚡ **Lightweight** - Minimal resource usage
+- 🔧 **Easy Setup** - One command installation
+
+---
+
+## 🚀 **INSTALLATION**
+
+### Termux Installation
 
 ```bash
 # Update packages
