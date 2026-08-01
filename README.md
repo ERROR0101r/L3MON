@@ -142,14 +142,7 @@ Change these immediately after installation!
 To completely remove L3MON from your device:
 
 ```bash
-# Download uninstaller
-wget https://github.com/ERROR0101r/L3MON/raw/main/uninstall.sh
-
-# Make executable
-chmod +x uninstall.sh
-
-# Run
-./uninstall.sh
+baah delete
 ```
 
 Or manually:
